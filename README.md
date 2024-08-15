@@ -21,8 +21,8 @@ https://github.com/user-attachments/assets/7b650333-a104-494a-be9d-1468eb583d1f
 - Run `main.py` as `python3 main.py`
 - The source image preview would pop up, use mouse pointer and the below keybinds to create a trimap and then press enter to save it or escape to revert all the changes.
 - Keybinds:
-  1. 1 or Q: White Mask (Foreground) 
-  2. 2 or E: Grey Mask (Unknown Region)
+  1. 1 or Q: Grey Mask (Unknown Region)
+  2. 2 or E: White Mask (Foreground) 
   3. Up arrow or +/=: Increases the brush size
   4. Down arrow or _/-: Decreases the brush size
   3. Enter: Save the trimap
